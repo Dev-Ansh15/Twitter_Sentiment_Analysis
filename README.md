@@ -157,22 +157,3 @@ This project is open-source. Feel free to modify and distribute.
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/sentiment-analysis/issues).
 
 ---
-
-## 👤 Author
-
-**Your Name**
-* GitHub: [@your-username](https://github.com/your-username)
-* LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-
----
-
-## 📞 Support
-
-If you encounter any issues or have questions, please:
-1. Check the Troubleshooting section above
-2. Open an issue on GitHub
-3. Review the [X API Documentation](https://developer.twitter.com/en/docs)
-
----
-
-⭐️ If you found this project helpful, please give it a star!
